@@ -1,7 +1,0 @@
-insert some text
-insert some text
-open line
-open line
-
-insert some text
-open line
